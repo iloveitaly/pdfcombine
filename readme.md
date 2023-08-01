@@ -1,3 +1,7 @@
+[poppler-utils looks like the best alternative](https://www.mankier.com/package/poppler-utils)
+
+---
+
 PDFCombine is a simple command line ulitility to combine PDF files.
 It uses the PDFKit framework, and thus requires OS X 10.4.x.
 Usage is very simple you must specify two or more input files and one output file. Heres an example where I will be combining top.pdf and bottom.pdf and outputting them to final.pdf:
